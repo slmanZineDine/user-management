@@ -1,0 +1,73 @@
+{
+   "common": {
+      "add": "Add",
+      "edit": "Edit",
+      "delete": "Delete"
+   },
+
+   "homePage": {
+      "title": "User Management",
+      "subTitle": "Manage your users and their roles",
+      "filterByRole": "Filter by Role",
+      "addUser": "Add User",
+      "noUsers": "No users found",
+      "dashboard": "Dashboard",
+      "pageNotFound": "Page Not Found"
+   },
+   "filterByRole": {
+      "label": "Filter by Role:",
+      "placeholder": "Select role",
+      "all": "All",
+      "admin": "Admin",
+      "user": "User"
+   },
+   "modal": {
+      "addUser": "Add New User",
+      "editUser": "Edit User",
+      "deleteUserTitle": "Are you absolutely sure?",
+      "deleteUserDescription": "This action cannot be undone. This will permanently delete the user {userName} and remove their data from our servers."
+   },
+   "table": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "status": "Status"
+   },
+   "form": {
+      "title": "Edit User",
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "status": "Status",
+      "namePlaceholder": "Enter name",
+      "emailPlaceholder": "Enter email",
+      "rolePlaceholder": "Select a role",
+      "statusPlaceholder": "Select a status",
+      "active": "Active",
+      "inactive": "Inactive"
+   },
+   "buttons": {
+      "save": "Save",
+      "saveChanges": "Save Changes",
+      "saving": "Saving...",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "deleting": "Deleting...",
+      "previous": "Previous",
+      "next": "Next",
+      "backToHome": "Back to Home",
+      "logout": "Logout"
+   },
+   "toasts": {
+      "userSuccess": "User has been {operation} successfully",
+      "userError": "Failed to {operation} user"
+   },
+   "footer": {
+      "copyright": "Copyright © All Rights Reserved"
+   },
+   "errors": {
+      "required": "This field is required.",
+      "lengthError": "The value must be less than {length} characters long.",
+      "emailError": "Invalid email address."
+   }
+}

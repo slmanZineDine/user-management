@@ -1,0 +1,72 @@
+{
+   "common": {
+      "add": "إضافة",
+      "edit": "تعديل",
+      "delete": "حذف"
+   },
+   "homePage": {
+      "title": "إدارة المستخدمين",
+      "subTitle": "إدارة المستخدمين والأدوار الخاصة بهم",
+      "filterByRole": "تصفية حسب الدور",
+      "addUser": "إضافة مستخدم",
+      "noUsers": "لا يوجد مستخدمين",
+      "dashboard": "لوحة التحكم",
+      "pageNotFound": "الصفحة غير موجودة"
+   },
+   "filterByRole": {
+      "label": "تصفية حسب الدور:",
+      "placeholder": "اختر دورًا",
+      "all": "الكل",
+      "admin": "مسؤول",
+      "user": "مستخدم"
+   },
+   "modal": {
+      "addUser": "إضافة مستخدم جديد",
+      "editUser": "تعديل المستخدم",
+      "deleteUserTitle": "هل أنت متأكد تمامًا؟",
+      "deleteUserDescription": "لا يمكن التراجع عن هذا الإجراء. سيؤدي ذلك إلى حذف المستخدم {userName} بشكل دائم وإزالة بياناته من خوادمنا."
+   },
+   "table": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "role": "الدور",
+      "status": "الحالة"
+   },
+   "form": {
+      "title": "تعديل المستخدم",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "role": "الدور",
+      "status": "الحالة",
+      "namePlaceholder": "أدخل الاسم",
+      "emailPlaceholder": "أدخل البريد الإلكتروني",
+      "rolePlaceholder": "اختر دورًا",
+      "statusPlaceholder": "اختر الحالة",
+      "active": "نشط",
+      "inactive": "غير نشط"
+   },
+   "buttons": {
+      "save": "حفظ",
+      "saveChanges": "حفظ التغييرات",
+      "saving": "جارٍ الحفظ...",
+      "cancel": "إلغاء",
+      "delete": "حذف",
+      "deleting": "جارٍ الحذف...",
+      "previous": "السابق",
+      "next": "التالي",
+      "backToHome": "عودة إلى الصفحة الرئيسية",
+      "logout": "تسجيل الخروج"
+   },
+   "toasts": {
+      "userSuccess": "تم {operation} المستخدم بنجاح",
+      "userError": "فشل في {operation} المستخدم"
+   },
+   "footer": {
+      "copyright": "جميع الحقوق محفوظة ©"
+   },
+   "errors": {
+      "required": "هذا الحقل مطلوب.",
+      "lengthError": "يجب أن يكون الطول أقل من {length} حرفًا.",
+      "emailError": "عنوان البريد الإلكتروني غير صالح."
+   }
+}
