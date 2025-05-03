@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact 📧
 
 -  **Project Link**: [https://github.com/slmanZineDine/user-management](https://github.com/slmanZineDine/user-management)
--  **Live Demo**: [https://user-management-pro.vercel.app/](https://user-management-pro.vercel.app/)
+-  **Live Demo**: [https://user-management-lime-eta.vercel.app/](https://user-management-lime-eta.vercel.app/)
 -  **Author**: Slman ZineDine
 
 ---
